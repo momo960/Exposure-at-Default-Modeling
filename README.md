@@ -11,3 +11,5 @@ This project investigates **Exposure at Default (EAD)** modeling using defaulted
    - Large fluctuations in FICO Scores increase exposure risk.
 2. **Model Performance**:
    - Ridge Regression with hyperparameter tuning achieved a Mean Absolute Error (MAE) of 0.0446 on the test set.
+
+![Feature Importance for EAD](top_30_features.png)
